@@ -4,9 +4,13 @@
 // @version      1.0
 // @description  Insert comment template on zentao bug resolve page!
 // @author       You
-// @match        https://zentao12.demo.haogs.cn/bug-resolve*
+// @match        http://*/zentao/bug-resolve*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=haogs.cn
 // @grant        none
+// @updateURL    https://github.com/mgjuc/zentao-comment-tamplate/raw/master/zentao_comment.user.js
+// @downloadURL  https://github.com/mgjuc/zentao-comment-tamplate/raw/master/zentao_comment.user.js
+// @homepageURL  https://github.com/mgjuc/zentao-comment-tamplate
+
 // ==/UserScript==
 
 (function() {
