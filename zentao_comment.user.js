@@ -5,11 +5,11 @@
 // @description  Insert comment template on zentao bug resolve page!
 // @author       You
 // @match        http://*/zentao/bug-resolve*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=haogs.cn
+// @icon         http://10.1.2.55:81/zentao/favicon.ico
 // @grant        none
-// @updateURL    https://github.com/mgjuc/zentao-comment-tamplate/raw/master/zentao_comment.user.js
-// @downloadURL  https://github.com/mgjuc/zentao-comment-tamplate/raw/master/zentao_comment.user.js
-// @homepageURL  https://github.com/mgjuc/zentao-comment-tamplate
+// @updateURL    http://10.1.3.167:3210/yanguoqiang/zentao-comment-tamplate/raw/branch/master/zentao_comment.user.js
+// @downloadURL  http://10.1.3.167:3210/yanguoqiang/zentao-comment-tamplate/raw/branch/master/zentao_comment.user.js
+// @homepageURL  http://10.1.3.167:3210/yanguoqiang/zentao-comment-tamplate
 
 // ==/UserScript==
 
