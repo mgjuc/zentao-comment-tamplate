@@ -5,11 +5,11 @@
 // @description  Insert comment template on zentao bug resolve page!
 // @author       You
 // @match        http://*/zentao/bug-resolve*
-// @icon         http://10.1.2.55:81/zentao/favicon.ico
+// @icon         http://10.1.80.55:81/zentao/favicon.ico
 // @grant        none
-// @updateURL    http://10.1.3.167:3210/yanguoqiang/zentao-comment-tamplate/raw/branch/master/zentao_comment.user.js
-// @downloadURL  http://10.1.3.167:3210/yanguoqiang/zentao-comment-tamplate/raw/branch/master/zentao_comment.user.js
-// @homepageURL  http://10.1.3.167:3210/yanguoqiang/zentao-comment-tamplate
+// @updateURL    http://10.1.80.167:3210/yanguoqiang/zentao-comment-tamplate/raw/branch/master/zentao_comment.user.js
+// @downloadURL  http://10.1.80.167:3210/yanguoqiang/zentao-comment-tamplate/raw/branch/master/zentao_comment.user.js
+// @homepageURL  http://10.1.80.167:3210/yanguoqiang/zentao-comment-tamplate
 
 // ==/UserScript==
 
@@ -17,7 +17,7 @@
   'use strict';
 
   // Your code here...
-  let comment_template =  `问题：
+  let comment_template =`问题：
 产生原因：
 解决方法：
  sql修改：无
